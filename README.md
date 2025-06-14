@@ -5,7 +5,7 @@ Sou um **iniciante na programação**, explorando o vasto mundo da tecnologia e 
 ## 💡 Meu objetivo
 Aprender a programar de maneira sólida, entender os fundamentos e desenvolver aplicações que facilitem o dia a dia.
 
-## 🚀 O que estou estudando agora?
+## 🚀 O que já possuo  conhecimento? 
 - 💻 Lógica de programação
 - ⚙️ Git e GitHub para controle de versões
 - 🎨 Front-end com HTML e CSS
