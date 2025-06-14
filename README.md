@@ -1,3 +1,20 @@
+# 👋 Olá! Eu sou Jhonatan!
+
+Sou um **iniciante na programação**, explorando o vasto mundo da tecnologia e do desenvolvimento de software. Estou aprendendo linguagens como **Python, JavaScript, HTML, CSS e MySQL**, buscando sempre melhorar minhas habilidades e construir projetos cada vez mais desafiadores.
+
+## 💡 Meu objetivo
+Aprender a programar de maneira sólida, entender os fundamentos e desenvolver aplicações que facilitem o dia a dia.
+
+## 🚀 O que estou estudando agora?
+- 💻 Lógica de programação
+- ⚙️ Git e GitHub para controle de versões
+- 🎨 Front-end com HTML e CSS
+- 🐍 Primeiros passos com Python
+
+Toda jornada começa com um primeiro passo, e estou animado para aprender e crescer na área! 💙
+
+
+
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
 ![HTML](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
